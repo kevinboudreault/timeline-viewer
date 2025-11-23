@@ -4,7 +4,7 @@
 
 1. Clone this repo ```git clone https://github.com/kevinboudreault/timeline-viewer.git```
 2. update docker-compose.yml [port/main-key]
-3. execute ```docker compose up --detach```
+3. execute ``` RAILS_MASTER_KEY={paste master key} docker compose up --build -d ```
 
 ## Purpose
 
