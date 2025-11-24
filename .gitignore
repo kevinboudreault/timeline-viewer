@@ -33,3 +33,12 @@
 # Ignore key files for decrypting credentials and more.
 /config/*.key
 
+.github/
+bin/
+db/
+lib/
+log/
+script/
+storage/
+tmp/
+vendor/
