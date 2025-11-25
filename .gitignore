@@ -35,10 +35,11 @@
 
 .github/
 bin/
-db/
 lib/
 log/
 script/
 storage/
 tmp/
 vendor/
+
+*.sublime-*
